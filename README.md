@@ -1,1 +1,1 @@
-# Bigger-is-Greater-algo
+# Bigger-is-Greater-algo The function finds the rightmost character (pivot) that can be increased to get the next lexicographical permutation, then swaps it with the smallest character larger than it on its right. After the swap, the suffix of the string is reversed to ensure the smallest possible increase.
